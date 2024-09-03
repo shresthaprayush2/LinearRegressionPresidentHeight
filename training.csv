@@ -1,0 +1,43 @@
+,order,name,height(cm),weight(kg)
+0,1,George Washington,189,79.0
+1,2,John Adams,170,72.0
+2,3,Thomas Jefferson,189,79.0
+3,4,James Madison,163,69.0
+4,5,James Monroe,183,76.0
+5,6,John Quincy Adams,171,72.0
+6,7,Andrew Jackson,185,77.0
+7,8,Martin Van Buren,168,71.0
+8,9,William Henry Harrison,173,73.0
+9,10,John Tyler,183,76.0
+10,11,James K. Polk,173,73.0
+11,12,Zachary Taylor,173,73.0
+12,13,Millard Fillmore,175,74.0
+13,14,Franklin Pierce,178,75.0
+14,15,James Buchanan,183,76.0
+15,16,Abraham Lincoln,193,80.0
+16,17,Andrew Johnson,178,75.0
+17,18,Ulysses S. Grant,173,73.0
+18,19,Rutherford B. Hayes,174,73.0
+19,20,James A. Garfield,183,76.0
+20,21,Chester A. Arthur,183,76.0
+21,23,Benjamin Harrison,168,71.0
+22,25,William McKinley,170,72.0
+23,26,Theodore Roosevelt,178,75.0
+24,27,William Howard Taft,182,76.0
+25,28,Woodrow Wilson,180,75.0
+26,29,Warren G. Harding,183,76.0
+27,30,Calvin Coolidge,178,75.0
+28,31,Herbert Hoover,182,76.0
+29,32,Franklin D. Roosevelt,188,78.0
+30,33,Harry S. Truman,175,74.0
+31,34,Dwight D. Eisenhower,179,75.0
+32,35,John F. Kennedy,183,76.0
+33,36,Lyndon B. Johnson,193,80.0
+34,37,Richard Nixon,182,76.0
+35,38,Gerald Ford,183,76.0
+36,39,Jimmy Carter,177,74.0
+37,40,Ronald Reagan,185,77.0
+38,41,George H. W. Bush,188,78.0
+39,42,Bill Clinton,188,78.0
+40,43,George W. Bush,182,76.0
+41,44,Barack Obama,185,77.0
